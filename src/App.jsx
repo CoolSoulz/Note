@@ -24,7 +24,7 @@ export default function App() {
 
       <div className="max-w-xl w-full p-6 bg-white dark:bg-gray-800 rounded-lg shadow-md font-sans text-gray-800 dark:text-gray-100">
         <h1 className="text-3xl font-semibold text-center text-blue-600 dark:text-blue-400 mb-6">
-          Why the Glorious GMP 2 XXL Mouse Pad is a Great Buy
+          Why You Should Buy Me a Glorious GMP 2 Mousepad
         </h1>
         <ul className="list-disc list-inside space-y-4 text-lg">
           <li>
